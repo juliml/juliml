@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Juliana Lacerda 👋
 
-<!--
-**juliml/juliml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer based in Toronto, Canada, focused on **Swift** and **SwiftUI**.
 
-Here are some ideas to get you started:
+- 🔭 Currently building **WealthApp** — a portfolio app with Swift 6 concurrency,
+  Keychain + biometric security, and unit/UI tests
+- 🌱 Deepening my skills in Swift 6 concurrency, testing, security and accessibility
+- 💼 Open to iOS Developer roles in Toronto
+- 🌐 Portfolio: [julianalacerda.com](https://www.julianalacerda.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+Swift · SwiftUI · UIKit · MVVM · async/await · XCTest · Keychain · LocalAuthentication
+
+## Featured projects
+- **BabySelfie** — app published on the App Store for parents to follow their babies' growth through photos
+- **WealthApp** — 2026 portfolio project (Swift 6, SwiftUI, MVVM) — link added when published
+```
